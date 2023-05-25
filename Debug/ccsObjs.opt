@@ -1,0 +1,7 @@
+"./Lab6_Luc_Pham.obj"
+"./clock.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./uart0.obj"
+"./wait.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
